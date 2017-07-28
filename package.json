@@ -42,7 +42,7 @@
     "big data"
   ],
   "bin": {
-    "norch": "./bin/norch"
+    "lighthouse": "./bin/lighthouse"
   },
   "maintainers": [
     "filipnyquist <filip@lbry.io>"
